@@ -1,6 +1,8 @@
-
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
+
+## Name : Mathan Kailash S
+## Reg No : 212223060156
 
 ## Aim
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
@@ -66,20 +68,23 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+## Graph of 10 GB
+### Low Noise:
+<img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/e186fb59-6a35-43d5-a0e7-4af6b026fa41" />
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
+### High Noise:
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/d69a3e9c-a0cb-43ef-9a67-7711797a96a1" />
 
-- **Pre-lab Calculations**  
+## Graph of 2.5 GB
+### Low Noise:
+<img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/ef48e374-ced7-473a-b579-5bab98737a1c" />
 
-- **Screenshots** of layout and results (including eye diagrams)  
+### High Noise:
+<img width="1600" height="790" alt="image" src="https://github.com/user-attachments/assets/1bcbf1c3-481c-4b65-bce6-e5e14eb2aa08" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+ - **Summary Table for each simulation:**
+<img width="1458" height="1136" alt="image" src="https://github.com/user-attachments/assets/b92312c9-8cfe-4360-a017-338785a069a6" />
+<img width="912" height="1280" alt="image" src="https://github.com/user-attachments/assets/8a3840ee-85db-4316-932f-a92a76d9491f" />
 
-- **Written Summary** of observations and explanations of differences.  
+## Result:
+Thus the experiment was succesfully completed and output is verified.
